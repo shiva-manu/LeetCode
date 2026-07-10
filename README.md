@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/shiva-manu/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/shiva-manu/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Stack
@@ -24,9 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/shiva-manu/LeetCode/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva-manu/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/shiva-manu/LeetCode/tree/master/0415-add-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva-manu/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

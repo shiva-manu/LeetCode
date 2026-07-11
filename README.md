@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/shiva-manu/LeetCode/tree/master/0409-longest-palindrome) |
+| [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->

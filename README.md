@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/shiva-manu/LeetCode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/shiva-manu/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/shiva-manu/LeetCode/tree/master/0409-longest-palindrome) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shiva-manu/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3523-make-array-non-decreasing](https://github.com/shiva-manu/LeetCode/tree/master/3523-make-array-non-decreasing) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->

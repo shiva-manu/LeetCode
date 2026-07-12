@@ -27,7 +27,8 @@ public:
             if(!s.empty()){
                 s_res+=s.top();
                 s.pop();
-            }else{
+            }
+            if(!t.empty()){
                 t_res+=t.top();
                 t.pop();
             }

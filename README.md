@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shiva-manu/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva-manu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/shiva-manu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/shiva-manu/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/shiva-manu/LeetCode/tree/master/0561-array-partition) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shiva-manu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/shiva-manu/LeetCode/tree/master/0409-longest-palindrome) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shiva-manu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |

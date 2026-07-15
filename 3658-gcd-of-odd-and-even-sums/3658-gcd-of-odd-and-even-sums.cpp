@@ -11,14 +11,6 @@ public:
         return gcd;
     }
     int gcdOfOddEvenSums(int n) {
-        int sumOdd=0,sumEven=0;
-        int num1=2,num2=1;
-        for(int i=0;i<n;i++){
-            sumOdd+=num2;
-            num2+=2;
-            sumEven+=num1;
-            num1+=2;
-        }
-        return getGcd(sumOdd,sumEven);
+       return n;
     }
 };

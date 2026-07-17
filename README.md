@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/shiva-manu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/shiva-manu/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/shiva-manu/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/shiva-manu/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shiva-manu/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shiva-manu/LeetCode/tree/master/0415-add-strings) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shiva-manu/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/shiva-manu/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/shiva-manu/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shiva-manu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/shiva-manu/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0561-array-partition](https://github.com/shiva-manu/LeetCode/tree/master/0561-array-partition) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shiva-manu/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |

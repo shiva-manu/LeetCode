@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shiva-manu/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/shiva-manu/LeetCode/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/shiva-manu/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shiva-manu/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shiva-manu/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva-manu/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/shiva-manu/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/shiva-manu/LeetCode/tree/master/0561-array-partition) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/shiva-manu/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |

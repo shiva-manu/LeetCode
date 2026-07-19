@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/shiva-manu/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/shiva-manu/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shiva-manu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/shiva-manu/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3523-make-array-non-decreasing](https://github.com/shiva-manu/LeetCode/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |

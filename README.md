@@ -262,4 +262,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/shiva-manu/LeetCode/tree/master/1260-shift-2d-grid) |
+## Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shiva-manu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shiva-manu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shiva-manu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shiva-manu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shiva-manu/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->

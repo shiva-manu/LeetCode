@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shiva-manu/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/shiva-manu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva-manu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shiva-manu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva-manu/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/shiva-manu/LeetCode/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shiva-manu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shiva-manu/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shiva-manu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/shiva-manu/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shiva-manu/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/shiva-manu/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/shiva-manu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shiva-manu/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shiva-manu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/shiva-manu/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/shiva-manu/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/shiva-manu/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shiva-manu/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/shiva-manu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

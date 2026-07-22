@@ -11,16 +11,35 @@
  */
 class Solution {
 public:
-    void postorder(TreeNode* root){
+    // Approach 1 using the postorder traversal
+    // void postorder(TreeNode* root){
+    //     if(root==NULL) return;
+    //     postorder(root->left);
+    //     postorder(root->right);
+    //     TreeNode* temp=root->left;
+    //     root->left=root->right;
+    //     root->right=temp;
+    // }
+
+    // Approach 2 using the bfs
+    void bfs(TreeNode* root){
         if(root==NULL) return;
-        postorder(root->left);
-        postorder(root->right);
-        TreeNode* temp=root->left;
-        root->left=root->right;
-        root->right=temp;
+        queue<TreeNode*> que;
+        que.push(root);
+        while(!que.empty()){
+            TreeNode* temp=que.front();
+            que.pop();
+            swap(temp->left,temp->right);
+            if(temp->left){
+                que.push(temp->left);
+            }
+            if(temp->right){
+                que.push(temp->right);
+            }
+        }
     }
     TreeNode* invertTree(TreeNode* root) {
-        postorder(root);
+        bfs(root);
         return root;
     }
 };

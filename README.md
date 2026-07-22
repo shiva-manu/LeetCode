@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/shiva-manu/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0817-linked-list-components](https://github.com/shiva-manu/LeetCode/tree/master/0817-linked-list-components) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/shiva-manu/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/shiva-manu/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/shiva-manu/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0817-linked-list-components](https://github.com/shiva-manu/LeetCode/tree/master/0817-linked-list-components) |
 | [0905-sort-array-by-parity](https://github.com/shiva-manu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shiva-manu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/shiva-manu/LeetCode/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/shiva-manu/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0817-linked-list-components](https://github.com/shiva-manu/LeetCode/tree/master/0817-linked-list-components) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/shiva-manu/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/shiva-manu/LeetCode/tree/master/1103-distribute-candies-to-people) |
+| [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/shiva-manu/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shiva-manu/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shiva-manu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shiva-manu/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Heap (Priority Queue)
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shiva-manu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

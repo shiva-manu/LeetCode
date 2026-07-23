@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shiva-manu/LeetCode/tree/master/0012-integer-to-roman) |
+| [0171-excel-sheet-column-number](https://github.com/shiva-manu/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0264-ugly-number-ii](https://github.com/shiva-manu/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shiva-manu/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/shiva-manu/LeetCode/tree/master/0412-fizz-buzz) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shiva-manu/LeetCode/tree/master/0012-integer-to-roman) |
+| [0171-excel-sheet-column-number](https://github.com/shiva-manu/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/shiva-manu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/shiva-manu/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0290-word-pattern) |

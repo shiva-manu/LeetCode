@@ -13,9 +13,23 @@ public:
         if(P!=-1) return t[i][P]=max(take,skip);
         return max(take,skip);
     }
+    int dpTab(vector<int>&nums){
+        int n=nums.size();
+        vector<int> t(n,1);
+        int maxLIS=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[j]<nums[i]){
+                    t[i]=max(t[i],t[j]+1);
+                    maxLIS=max(maxLIS,t[i]);
+                }
+            }
+        }
+        return maxLIS;
+    }
     int lengthOfLIS(vector<int>& nums) {
-        n=nums.size();
-        memset(t,-1,sizeof(t));
-        return dpMemo(nums,0,-1);
+        // n=nums.size();
+        // memset(t,-1,sizeof(t));
+        return dpTab(nums);
     }
 };

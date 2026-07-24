@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shiva-manu/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/shiva-manu/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shiva-manu/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3853-merge-close-characters](https://github.com/shiva-manu/LeetCode/tree/master/3853-merge-close-characters) |
 ## Greedy
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shiva-manu/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |

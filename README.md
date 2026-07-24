@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shiva-manu/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/shiva-manu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/shiva-manu/LeetCode/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva-manu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shiva-manu/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shiva-manu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/shiva-manu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/shiva-manu/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shiva-manu/LeetCode/tree/master/2460-apply-operations-to-an-array) |

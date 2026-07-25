@@ -29,7 +29,20 @@ public:
         }
         return ans;
     }
+    int prev=INT_MAX,mini=INT_MAX;
+    void inorder(TreeNode* root){
+        if(root==NULL) return;
+        inorder(root->left);
+        if(prev==INT_MAX){
+            prev=root->val;
+        }else{
+            mini=min(mini,abs(root->val-prev));
+            prev=root->val;
+        }
+        inorder(root->right);
+    }
     int getMinimumDifference(TreeNode* root) {
-        return bfs(root);
+        inorder(root);
+        return mini;
     }
 };

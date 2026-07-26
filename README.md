@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/shiva-manu/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shiva-manu/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/shiva-manu/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shiva-manu/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shiva-manu/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/shiva-manu/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shiva-manu/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shiva-manu/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/shiva-manu/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/shiva-manu/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/shiva-manu/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shiva-manu/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Queue
 |  |
 | ------- |

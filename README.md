@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/shiva-manu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/shiva-manu/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/shiva-manu/LeetCode/tree/master/0817-linked-list-components) |
 ## Math
@@ -411,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/shiva-manu/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

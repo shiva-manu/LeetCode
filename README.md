@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shiva-manu/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shiva-manu/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shiva-manu/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shiva-manu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shiva-manu/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shiva-manu/LeetCode/tree/master/0274-h-index) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shiva-manu/LeetCode/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/shiva-manu/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/shiva-manu/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/shiva-manu/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shiva-manu/LeetCode/tree/master/0242-valid-anagram) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shiva-manu/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shiva-manu/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shiva-manu/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shiva-manu/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/shiva-manu/LeetCode/tree/master/0274-h-index) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shiva-manu/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/shiva-manu/LeetCode/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/shiva-manu/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/shiva-manu/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shiva-manu/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shiva-manu/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |

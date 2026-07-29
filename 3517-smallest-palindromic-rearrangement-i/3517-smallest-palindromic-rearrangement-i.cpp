@@ -17,9 +17,9 @@ public:
             if(freq[i]%2==1){
                 mid=char('a'+i);
             }
-            right=left;
-            reverse(right.begin(),right.end());
         }
+        right=left;
+        reverse(right.begin(),right.end());
         return left+mid+right;
     }
 };

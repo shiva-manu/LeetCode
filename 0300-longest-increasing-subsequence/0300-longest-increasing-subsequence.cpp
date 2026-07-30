@@ -27,9 +27,21 @@ public:
         }
         return maxLIS;
     }
+    int patienceSort(vector<int>& nums){
+        vector<int> result;
+        for(int num: nums){
+            auto it =lower_bound(result.begin(),result.end(),num); // just greater than or equal to nums[i]
+            if(it==result.end()){
+                result.push_back(num);
+            }else{
+                *it=num;
+            }
+        }
+        return result.size();
+    }
     int lengthOfLIS(vector<int>& nums) {
         // n=nums.size();
         // memset(t,-1,sizeof(t));
-        return dpTab(nums);
+        return patienceSort(nums);
     }
 };

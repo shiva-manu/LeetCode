@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shiva-manu/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-manu/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shiva-manu/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva-manu/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shiva-manu/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/shiva-manu/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3853-merge-close-characters](https://github.com/shiva-manu/LeetCode/tree/master/3853-merge-close-characters) |
 ## Greedy
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shiva-manu/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-manu/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3523-make-array-non-decreasing](https://github.com/shiva-manu/LeetCode/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Two Pointers
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva-manu/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shiva-manu/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva-manu/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shiva-manu/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack

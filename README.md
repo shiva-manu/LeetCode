@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shiva-manu/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1539-kth-missing-positive-number](https://github.com/shiva-manu/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shiva-manu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/shiva-manu/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shiva-manu/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/shiva-manu/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0441-arranging-coins](https://github.com/shiva-manu/LeetCode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/shiva-manu/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1539-kth-missing-positive-number](https://github.com/shiva-manu/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |

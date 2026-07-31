@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/shiva-manu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shiva-manu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/shiva-manu/LeetCode/tree/master/0925-long-pressed-name) |
+| [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva-manu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shiva-manu/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shiva-manu/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0817-linked-list-components](https://github.com/shiva-manu/LeetCode/tree/master/0817-linked-list-components) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/shiva-manu/LeetCode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/shiva-manu/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shiva-manu/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shiva-manu/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/shiva-manu/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shiva-manu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shiva-manu/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shiva-manu/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |

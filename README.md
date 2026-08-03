@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/shiva-manu/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/shiva-manu/LeetCode/tree/master/1406-stone-game-iii) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shiva-manu/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1837-sum-of-digits-in-base-k](https://github.com/shiva-manu/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shiva-manu/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-manu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/shiva-manu/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/shiva-manu/LeetCode/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1539-kth-missing-positive-number](https://github.com/shiva-manu/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shiva-manu/LeetCode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/shiva-manu/LeetCode/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/shiva-manu/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |
@@ -464,4 +467,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shiva-manu/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shiva-manu/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/shiva-manu/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

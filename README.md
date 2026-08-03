@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shiva-manu/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/shiva-manu/LeetCode/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/shiva-manu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/shiva-manu/LeetCode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/shiva-manu/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shiva-manu/LeetCode/tree/master/0575-distribute-candies) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shiva-manu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shiva-manu/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/shiva-manu/LeetCode/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/shiva-manu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shiva-manu/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/shiva-manu/LeetCode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
@@ -468,4 +470,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shiva-manu/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shiva-manu/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shiva-manu/LeetCode/tree/master/1406-stone-game-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shiva-manu/LeetCode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shiva-manu/LeetCode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

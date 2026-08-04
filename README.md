@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shiva-manu/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3523-make-array-non-decreasing](https://github.com/shiva-manu/LeetCode/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/shiva-manu/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3731-find-missing-elements](https://github.com/shiva-manu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3834-merge-adjacent-equal-elements](https://github.com/shiva-manu/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shiva-manu/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/shiva-manu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3853-merge-close-characters](https://github.com/shiva-manu/LeetCode/tree/master/3853-merge-close-characters) |
 ## Greedy
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva-manu/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shiva-manu/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shiva-manu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shiva-manu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |

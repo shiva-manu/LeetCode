@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shiva-manu/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/shiva-manu/LeetCode/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/shiva-manu/LeetCode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/shiva-manu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/shiva-manu/LeetCode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/shiva-manu/LeetCode/tree/master/0561-array-partition) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shiva-manu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shiva-manu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/shiva-manu/LeetCode/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/shiva-manu/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/shiva-manu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shiva-manu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shiva-manu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/shiva-manu/LeetCode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/shiva-manu/LeetCode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/shiva-manu/LeetCode/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shiva-manu/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |

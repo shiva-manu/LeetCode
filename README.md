@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/shiva-manu/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shiva-manu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shiva-manu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0692-top-k-frequent-words](https://github.com/shiva-manu/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/shiva-manu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -511,4 +512,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/shiva-manu/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shiva-manu/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

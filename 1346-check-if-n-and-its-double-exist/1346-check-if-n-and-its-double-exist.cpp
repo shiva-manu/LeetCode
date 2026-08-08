@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool checkIfExist(vector<int>& arr) {
+    bool HashMap(vector<int>& arr){
         unordered_map<int,int> map;
         for(int i=0;i<arr.size();i++){
             map[arr[i]]++;
@@ -14,5 +14,17 @@ public:
             }
         }
         return false;
+    }
+    bool HashSet(vector<int>& nums){
+        unordered_set<int> hashSet;
+        for(int num: nums){
+            if(hashSet.count(2*num)) return true;
+            if(num%2==0 && hashSet.count(num/2)) return true;
+            hashSet.insert(num);
+        }
+        return false;
+    }
+    bool checkIfExist(vector<int>& arr) {
+        return HashSet(arr);
     }
 };

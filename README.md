@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shiva-manu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shiva-manu/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/shiva-manu/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/shiva-manu/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shiva-manu/LeetCode/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/shiva-manu/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1539-kth-missing-positive-number](https://github.com/shiva-manu/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -542,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shiva-manu/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shiva-manu/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

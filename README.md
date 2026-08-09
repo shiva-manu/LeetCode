@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shiva-manu/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiva-manu/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1002-find-common-characters](https://github.com/shiva-manu/LeetCode/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/shiva-manu/LeetCode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/shiva-manu/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shiva-manu/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/shiva-manu/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/shiva-manu/LeetCode/tree/master/0925-long-pressed-name) |
+| [1002-find-common-characters](https://github.com/shiva-manu/LeetCode/tree/master/1002-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva-manu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/shiva-manu/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/shiva-manu/LeetCode/tree/master/0817-linked-list-components) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shiva-manu/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/shiva-manu/LeetCode/tree/master/1002-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/shiva-manu/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shiva-manu/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |

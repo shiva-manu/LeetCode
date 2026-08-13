@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shiva-manu/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shiva-manu/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/shiva-manu/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/shiva-manu/LeetCode/tree/master/1025-divisor-game) |
 | [1103-distribute-candies-to-people](https://github.com/shiva-manu/LeetCode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/shiva-manu/LeetCode/tree/master/1406-stone-game-iii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shiva-manu/LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shiva-manu/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/shiva-manu/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shiva-manu/LeetCode/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/shiva-manu/LeetCode/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/shiva-manu/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/shiva-manu/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shiva-manu/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shiva-manu/LeetCode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shiva-manu/LeetCode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shiva-manu/LeetCode/tree/master/1406-stone-game-iii) |
 ## Knapsack Problem
 |  |
@@ -585,4 +588,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/shiva-manu/LeetCode/tree/master/0077-combinations) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shiva-manu/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shiva-manu/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shiva-manu/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

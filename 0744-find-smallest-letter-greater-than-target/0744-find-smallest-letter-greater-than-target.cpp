@@ -8,7 +8,6 @@ public:
             }
         }
         if(mn==27) return letters[0];
-        char result='a'+mn;
-        return result;
+        return (char)mn+'a';
     }
 };

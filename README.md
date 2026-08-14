@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-manu/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shiva-manu/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shiva-manu/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shiva-manu/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shiva-manu/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/shiva-manu/LeetCode/tree/master/3731-find-missing-elements) |
 | [3853-merge-close-characters](https://github.com/shiva-manu/LeetCode/tree/master/3853-merge-close-characters) |
 ## Greedy
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/shiva-manu/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/shiva-manu/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiva-manu/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shiva-manu/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shiva-manu/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva-manu/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shiva-manu/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/shiva-manu/LeetCode/tree/master/2562-find-the-array-concatenation-value) |

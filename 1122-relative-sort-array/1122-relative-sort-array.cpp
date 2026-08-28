@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
-        unordered_map<int,int> hashMap;
+        vector<int> hashMap(1001,0);
         for(int num: arr1){
             hashMap[num]+=1;
         }
@@ -13,10 +13,10 @@ public:
             }
         }
         vector<int> remaining;
-        for(auto &[num,count]: hashMap){
-            while(count>0){
+        for(int num=0;num<=1000;num++){
+            while(hashMap[num]>0){
                 remaining.push_back(num);
-                count--;
+                hashMap[num]--;
             }
         }
         sort(remaining.begin(),remaining.end());

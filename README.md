@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shiva-manu/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shiva-manu/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shiva-manu/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shiva-manu/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shiva-manu/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/shiva-manu/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/shiva-manu/LeetCode/tree/master/2465-number-of-distinct-averages) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shiva-manu/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/shiva-manu/LeetCode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shiva-manu/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shiva-manu/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shiva-manu/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/shiva-manu/LeetCode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shiva-manu/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
